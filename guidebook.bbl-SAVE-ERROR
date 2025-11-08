@@ -1,0 +1,1221 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.2 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{nyt/global//global/global}
+    \entry{bognerFossilizedAroidInfructescence2005}{article}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=b80bee3ec4abddbdb95293c9101b91c7}{%
+           family={Bogner},
+           familyi={B\bibinitperiod},
+           given={Josef},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=2ad604da526e2e330a8cc5de54110b4a}{%
+           family={Hoffman},
+           familyi={H\bibinitperiod},
+           given={Georgia\bibnamedelima L},
+           giveni={G\bibinitperiod\bibinitdelim L\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=e51c7ac159831b996bac2f0fbe3c2dd7}{%
+           family={Aulenback},
+           familyi={A\bibinitperiod},
+           given={Kevin\bibnamedelima R},
+           giveni={K\bibinitperiod\bibinitdelim R\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{d01d8a9430cbaa536c2c3fee9adeccf9}
+      \strng{fullhash}{d01d8a9430cbaa536c2c3fee9adeccf9}
+      \strng{bibnamehash}{d01d8a9430cbaa536c2c3fee9adeccf9}
+      \strng{authorbibnamehash}{d01d8a9430cbaa536c2c3fee9adeccf9}
+      \strng{authornamehash}{d01d8a9430cbaa536c2c3fee9adeccf9}
+      \strng{authorfullhash}{d01d8a9430cbaa536c2c3fee9adeccf9}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{A fossilized aroid infructescence has been recovered from the Horseshoe Canyon Formation in southern Alberta, Canada. Its stratigraphic position places it near the end of the Campanian Stage of the Late Cretaceous Epoch, at an absolute age of approximately 72 million years before present. It is one of the few Cretaceous aroid fossils known at present, and it represents a new genus of Araceae, here named Albertarum. The infructescence is fertile to the apex, and the flowers must have been bisexual. Flowers bear remains of a long, attenuated style, surrounded by a perigone of six tepals. A fracture reveals ellipsoid seeds with a thick, ribbed testa and traces of a raphe, arranged in groups of three. The gynoecium was probably trilocular with one ovule per locule, and ovules were anatropous, probably with apical–parietal or axile placentation. Bisexual, perigoniate flowers occur in subfamilies Gymnostachydoideae, Orontioideae, Pothoideae, Monsteroideae, and Lasioideae, no genera of which have ribbed seeds, but the infructescence and stylar region of Albertarum resemble those of extant Symplocarpus (Orontioideae). The Horseshoe Canyon Formation was deposited in a delta plain setting, and like Symplocarpus, Albertarum probably grew in a wetland environment.Key words: fossil, Araceae, Symplocarpus, Albertarum, Limnobiophyllum, Mayoa.}
+      \field{issn}{0008-4026}
+      \field{journaltitle}{Canadian Journal of Botany}
+      \field{month}{6}
+      \field{note}{Publisher: {NRC} Research Press}
+      \field{number}{6}
+      \field{shortjournal}{Can. J. Bot.}
+      \field{title}{A fossilized aroid infructescence, Albertarum pueri gen.nov. et sp.nov., of Late Cretaceous (Late Campanian) age from the Horseshoe Canyon Formation of southern Alberta, Canada}
+      \field{urlday}{5}
+      \field{urlmonth}{11}
+      \field{urlyear}{2025}
+      \field{volume}{83}
+      \field{year}{2005}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{591\bibrangedash 598}
+      \range{pages}{8}
+      \verb{doi}
+      \verb 10.1139/b05-033
+      \endverb
+      \verb{file}
+      \verb PDF:/Users/ericr/Zotero/storage/CCKVX67G/Bogner et al. - 2005 - A fossilized aroid infructescence, Albertarum pueri gen.nov. et sp.nov., of Late Cretaceous (Late Ca.pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://cdnsciencepub.com/doi/abs/10.1139/b05-033
+      \endverb
+      \verb{url}
+      \verb https://cdnsciencepub.com/doi/abs/10.1139/b05-033
+      \endverb
+    \endentry
+    \entry{brinkmanReviewNonmarineTurtles2003}{article}{}
+      \name{author}{1}{}{%
+        {{un=2,uniquepart=given,hash=eca8f82f2c2fb0f95d540e35c74fcfaa}{%
+           family={Brinkman},
+           familyi={B\bibinitperiod},
+           given={Donald\bibnamedelima B},
+           giveni={D\bibinitperiod\bibinitdelim B\bibinitperiod},
+           givenun=2}}%
+      }
+      \strng{namehash}{eca8f82f2c2fb0f95d540e35c74fcfaa}
+      \strng{fullhash}{eca8f82f2c2fb0f95d540e35c74fcfaa}
+      \strng{bibnamehash}{eca8f82f2c2fb0f95d540e35c74fcfaa}
+      \strng{authorbibnamehash}{eca8f82f2c2fb0f95d540e35c74fcfaa}
+      \strng{authornamehash}{eca8f82f2c2fb0f95d540e35c74fcfaa}
+      \strng{authorfullhash}{eca8f82f2c2fb0f95d540e35c74fcfaa}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{The Late Cretaceous of Alberta preserves one of the most complete records of fossil turtles within a single geographic area in North America. The Cenomanian Dunvegan Formation contains the earliest record of the family Trionychidae in North America. The Santonian Milk River Formation contains a minimum of ten taxa with Adocus, a small trionychid, and a member of the Solemydidae being the most abundant. Diversity remains high in the mid-Campanian Judith River Group. The solemyidid last occurs in the basal beds of the Judith River Group. A member of the Macrobaenidae first occurs in the Dinosaur Park Formation, the uppermost formation in the Judith River Group. Turtles diversity is low in the late Campanian lower Horseshoe Canyon Formation, and they are absent in the early Maastrichtian upper Horseshoe Canyon Formation. Diversity increases in the late Maastrichtian Scollard Formation, although it is much less than in the contemporaneous Hell Creek Formation of Montana. Two of the taxa present in the Scollard Formation, Compsemys and Plastomenus, occur in late Campanian or early Maastrichtian formations in more southerly areas of North America. The changes in turtle diversity through the Campanian and Maastrichtian are interpreted as a result of shifts in a latitudinal turtle diversity gradient resulting from changes in climate. Based on this interpretation a decrease in temperature from the mid-Campanian to early Maastrichtian, followed by a rapid increase at the beginning of the late Maastrichtian is supported.}
+      \field{issn}{0008-4077}
+      \field{journaltitle}{Canadian Journal of Earth Sciences}
+      \field{month}{4}
+      \field{note}{Publisher: {NRC} Research Press}
+      \field{number}{4}
+      \field{shortjournal}{Can. J. Earth Sci.}
+      \field{title}{A review of nonmarine turtles from the Late Cretaceous of Alberta}
+      \field{urlday}{4}
+      \field{urlmonth}{11}
+      \field{urlyear}{2025}
+      \field{volume}{40}
+      \field{year}{2003}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{557\bibrangedash 571}
+      \range{pages}{15}
+      \verb{doi}
+      \verb 10.1139/e02-080
+      \endverb
+      \verb{urlraw}
+      \verb https://cdnsciencepub.com/doi/abs/10.1139/e02-080
+      \endverb
+      \verb{url}
+      \verb https://cdnsciencepub.com/doi/abs/10.1139/e02-080
+      \endverb
+    \endentry
+    \entry{brownIntraspecificFacialBite2022}{article}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=7190b62b70032f31faf9479809776159}{%
+           family={Brown},
+           familyi={B\bibinitperiod},
+           given={Caleb\bibnamedelima M.},
+           giveni={C\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+        {{un=2,uniquepart=given,hash=34fa785b22112545b68300d958e0877e}{%
+           family={Currie},
+           familyi={C\bibinitperiod},
+           given={Philip\bibnamedelima J.},
+           giveni={P\bibinitperiod\bibinitdelim J\bibinitperiod},
+           givenun=2}}%
+        {{un=0,uniquepart=base,hash=9731ad2b907b16ed3e406291110dbc39}{%
+           family={Therrien},
+           familyi={T\bibinitperiod},
+           given={François},
+           giveni={F\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{a109521b2919b4c8fffa5a8afc42f434}
+      \strng{fullhash}{a109521b2919b4c8fffa5a8afc42f434}
+      \strng{bibnamehash}{a109521b2919b4c8fffa5a8afc42f434}
+      \strng{authorbibnamehash}{a109521b2919b4c8fffa5a8afc42f434}
+      \strng{authornamehash}{a109521b2919b4c8fffa5a8afc42f434}
+      \strng{authorfullhash}{a109521b2919b4c8fffa5a8afc42f434}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Intraspecific aggression, or agonism, is a widespread intrasexual selective behavior important to understanding animal behavioral ecology and reproductive systems. Such behavior can be studied either by direct observation or inferred from wound/scar frequency in extant species but is difficult to document in extinct taxa, limiting understanding of its evolution. Among extant archosaurs, crocodylians display extensive intrasexual aggression, whereas birds show extreme visual/vocal intersexual display. The evolutionary origin of this behavioral divergence, and pattern in non-avian dinosaurs, is unknown. Here we document the morphology, frequency, and ontogeny of intraspecific facial bite lesions (324 lesions) in a large sample of tyrannosaurids (202 specimens, 528 elements) to infer patterns of intraspecific aggression in non-avian theropods. Facial scars are consistent in position and orientation across tyrannosaurid species, suggesting bites were inflicted due to repeated/postured behavior. Facial scars are absent in young tyrannosaurids, first appear in immature animals (∼50\% adult skull length), are present in ∼60\% of the adult-sized specimens, and show aggressor:victim size isometry. The ontogenetic distribution of bite scars suggests agonistic behavior is associated with the onset of sexual maturity, and scar presence in approximately half the specimens may relate to a sexual pattern. Considered in a phylogenetic context, intraspecific bite marks are consistent and widely distributed in fossil and extant crocodyliforms and non-maniraptoriform theropods, suggesting a potential plesiomorphic behavior in archosaurs. Their absence in maniraptoriform theropods, including birds, may reflect a transition from boney cranial ornamentation and crocodylian-like intrasexual aggression to avian-like intersexual display with the evolution of pennaceous feathers.}
+      \field{issn}{0094-8373, 1938-5331}
+      \field{journaltitle}{Paleobiology}
+      \field{month}{5}
+      \field{note}{Publisher: The Paleontological Society}
+      \field{number}{1}
+      \field{shortjournal}{pbio}
+      \field{title}{Intraspecific facial bite marks in tyrannosaurids provide insight into sexual maturity and evolution of bird-like intersexual display}
+      \field{urlday}{9}
+      \field{urlmonth}{7}
+      \field{urlyear}{2022}
+      \field{volume}{48}
+      \field{year}{2022}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{12\bibrangedash 43}
+      \range{pages}{32}
+      \verb{doi}
+      \verb 10.1017/pab.2021.29
+      \endverb
+      \verb{file}
+      \verb Full Text PDF:/Users/ericr/Zotero/storage/P6RPR3L6/Brown et al. - 2022 - Intraspecific facial bite marks in tyrannosaurids .pdf:application/pdf;Snapshot:/Users/ericr/Zotero/storage/4DJXXVKV/pab.2021.29.html:text/html
+      \endverb
+      \verb{urlraw}
+      \verb https://bioone.org/journals/paleobiology/volume-48/issue-1/pab.2021.29/Intraspecific-facial-bite-marks-in-tyrannosaurids-provide-insight-into-sexual/10.1017/pab.2021.29.full
+      \endverb
+      \verb{url}
+      \verb https://bioone.org/journals/paleobiology/volume-48/issue-1/pab.2021.29/Intraspecific-facial-bite-marks-in-tyrannosaurids-provide-insight-into-sexual/10.1017/pab.2021.29.full
+      \endverb
+      \keyw{To Read}
+    \endentry
+    \entry{curriePossibleEvidenceGregarious1998}{article}{}
+      \name{author}{1}{}{%
+        {{un=2,uniquepart=given,hash=c7a22ee518885a81355a55ec8f2bc174}{%
+           family={Currie},
+           familyi={C\bibinitperiod},
+           given={P.\bibnamedelimi J.},
+           giveni={P\bibinitperiod\bibinitdelim J\bibinitperiod},
+           givenun=2}}%
+      }
+      \strng{namehash}{c7a22ee518885a81355a55ec8f2bc174}
+      \strng{fullhash}{c7a22ee518885a81355a55ec8f2bc174}
+      \strng{bibnamehash}{c7a22ee518885a81355a55ec8f2bc174}
+      \strng{authorbibnamehash}{c7a22ee518885a81355a55ec8f2bc174}
+      \strng{authornamehash}{c7a22ee518885a81355a55ec8f2bc174}
+      \strng{authorfullhash}{c7a22ee518885a81355a55ec8f2bc174}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{In 1910, a collecting party from the American Museum of Natural History led by Barnum Brown floated down the Red Deer River of Alberta....}
+      \field{journaltitle}{{ERA}}
+      \field{langid}{english}
+      \field{title}{Possible evidence of gregarious behavior in tyrannosaurids}
+      \field{urlday}{6}
+      \field{urlmonth}{7}
+      \field{urlyear}{2022}
+      \field{year}{1998}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{doi}
+      \verb 10.7939/R3348GX03
+      \endverb
+      \verb{file}
+      \verb Full Text PDF:/Users/ericr/Zotero/storage/QJPTFMT2/Currie - 1998 - Possible evidence of gregarious behavior in tyrann.pdf:application/pdf;GAIA_15_1998_271.pdf:/Users/ericr/Zotero/storage/YHXBGQE9/GAIA_15_1998_271.pdf:application/pdf;Snapshot:/Users/ericr/Zotero/storage/XY43XKQD/19b93ddc-a4b9-4807-9d19-90d21648dfff.html:text/html
+      \endverb
+      \verb{urlraw}
+      \verb https://era.library.ualberta.ca/items/19b93ddc-a4b9-4807-9d19-90d21648dfff
+      \endverb
+      \verb{url}
+      \verb https://era.library.ualberta.ca/items/19b93ddc-a4b9-4807-9d19-90d21648dfff
+      \endverb
+      \keyw{To-Read}
+    \endentry
+    \entry{demers-potvinHighLocalVariability2025}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=7bfc90489684538b7a4ea4b8518d9021}{%
+           family={Demers-Potvin},
+           familyi={D\bibinithyphendelim P\bibinitperiod},
+           given={Alexandre\bibnamedelima V.},
+           giveni={A\bibinitperiod\bibinitdelim V\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=f142c368b6757f8d7f5cb023ad295bd3}{%
+           family={Larsson},
+           familyi={L\bibinitperiod},
+           given={Hans\bibnamedelimb C.\bibnamedelimi E.},
+           giveni={H\bibinitperiod\bibinitdelim C\bibinitperiod\bibinitdelim E\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{2be5aa911620b962669f923f4186eb8f}
+      \strng{fullhash}{2be5aa911620b962669f923f4186eb8f}
+      \strng{bibnamehash}{2be5aa911620b962669f923f4186eb8f}
+      \strng{authorbibnamehash}{2be5aa911620b962669f923f4186eb8f}
+      \strng{authornamehash}{2be5aa911620b962669f923f4186eb8f}
+      \strng{authorfullhash}{2be5aa911620b962669f923f4186eb8f}
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{High local variability in elevation of the Oldman-Dinosaur Park Formation contact revealed by digital outcrop reconstruction, and implications for dinosaur bios}
+      \field{day}{12}
+      \field{issn}{1094-8074}
+      \field{journaltitle}{Palaeontologia Electronica}
+      \field{month}{3}
+      \field{note}{Publisher: Paleontological Society}
+      \field{number}{1}
+      \field{shortjournal}{{PE}}
+      \field{title}{High local variability in elevation of the Oldman-Dinosaur Park Formation contact revealed by digital outcrop reconstruction, and implications for dinosaur biostratigraphy of the Late Cretaceous (Campanian) Belly River Group of Alberta, Canada}
+      \field{urlday}{27}
+      \field{urlmonth}{6}
+      \field{urlyear}{2025}
+      \field{volume}{28}
+      \field{year}{2025}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{1\bibrangedash 41}
+      \range{pages}{41}
+      \verb{doi}
+      \verb 10.26879/1447
+      \endverb
+      \verb{file}
+      \verb Full Text PDF:/Users/ericr/Zotero/storage/PNEB7MMC/Demers-Potvin and Larsson - 2025 - High local variability in elevation of the Oldman-.pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://palaeo-electronica.org/content/2025/5473-dinosaur-park-bonebed-3d-model
+      \endverb
+      \verb{url}
+      \verb https://palaeo-electronica.org/content/2025/5473-dinosaur-park-bonebed-3d-model
+      \endverb
+    \endentry
+    \entry{eberthRevisedStratigraphyDepositional2012}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=38930a411dd742930a03c9508eb5a99a}{%
+           family={Eberth},
+           familyi={E\bibinitperiod},
+           given={David\bibnamedelima A.},
+           giveni={D\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=d227cf8f4603c237438117199ca128f5}{%
+           family={Braman},
+           familyi={B\bibinitperiod},
+           given={Dennis\bibnamedelima R.},
+           giveni={D\bibinitperiod\bibinitdelim R\bibinitperiod},
+           givenun=0}}%
+      }
+      \name{editor}{1}{}{%
+        {{hash=04cb0412a864887ca39b582cd772e62b}{%
+           family={Greenough},
+           familyi={G\bibinitperiod},
+           given={John\bibnamedelima D.},
+           giveni={J\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
+      }
+      \strng{namehash}{c1a2feafeeb834566710bb47cf9b8bf4}
+      \strng{fullhash}{c1a2feafeeb834566710bb47cf9b8bf4}
+      \strng{bibnamehash}{c1a2feafeeb834566710bb47cf9b8bf4}
+      \strng{authorbibnamehash}{c1a2feafeeb834566710bb47cf9b8bf4}
+      \strng{authornamehash}{c1a2feafeeb834566710bb47cf9b8bf4}
+      \strng{authorfullhash}{c1a2feafeeb834566710bb47cf9b8bf4}
+      \strng{editorbibnamehash}{04cb0412a864887ca39b582cd772e62b}
+      \strng{editornamehash}{04cb0412a864887ca39b582cd772e62b}
+      \strng{editorfullhash}{04cb0412a864887ca39b582cd772e62b}
+      \field{sortinit}{E}
+      \field{sortinithash}{8da8a182d344d5b9047633dfc0cc9131}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{The Upper Cretaceous paralic to nonmarine Horseshoe Canyon Formation ({HCFm}) of southern Alberta is divided into seven mappable members: Strathmore, Drumheller, Horsethief, Morrin, Tolman, Carbon, and Whitemud (bottom to top). This subdivision, based on combined outcrop and subsurface analyses, reflects lithostratigraphic variations related to changes in sea level (previously recognized) and newly documented changes in climate, volcanism, and orogenesis in an evolving foreland basin. Million-year-scale cycles of orogenesis resulted in changes in sediment supply and rates of subsidence in the basin and are interpreted in the context of a simple, two-phase foreland-basin sequence stratigraphic model: (i) overthrust loading resulting in reduced rates of sediment supply and subsidence in the most distal portions of the Alberta foredeep (our field area); (ii) tectonic quiescence leading to increased rates of sediment supply and subsidence during proximal-foredeep rebound. During the first ∼2.5 Ma of its history (Strathmore and Drumheller members), the {HCFm} was tectonically and climatically “stable”, and depositional style and stratigraphic architecture were influenced by vertical aggradation and modest progradation of shorelines. During the remaining ∼4.5 Ma (Horsethief, Morrin, Tolman, Carbon, and Whitemud members), there were more complex and frequent changes in climate, volcanism, orogenesis, landscape weathering, and soil formation. Understanding this previously unrecognized complexity is critical for correctly assessing hydrocarbon resource distributions and biostratigraphic and taphonomic patterns.}
+      \field{issn}{0008-4077, 1480-3313}
+      \field{journaltitle}{Canadian Journal of Earth Sciences}
+      \field{langid}{english}
+      \field{month}{9}
+      \field{number}{9}
+      \field{shortjournal}{Can. J. Earth Sci.}
+      \field{title}{A revised stratigraphy and depositional history for the Horseshoe Canyon Formation (Upper Cretaceous), southern Alberta plains}
+      \field{urlday}{6}
+      \field{urlmonth}{7}
+      \field{urlyear}{2022}
+      \field{volume}{49}
+      \field{year}{2012}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{1053\bibrangedash 1086}
+      \range{pages}{34}
+      \verb{doi}
+      \verb 10.1139/e2012-035
+      \endverb
+      \verb{file}
+      \verb Eberth and Braman - 2012 - A revised stratigraphy and depositional history fo.pdf:/Users/ericr/Zotero/storage/2HLB6N7G/Eberth and Braman - 2012 - A revised stratigraphy and depositional history fo.pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb http://www.nrcresearchpress.com/doi/10.1139/e2012-035
+      \endverb
+      \verb{url}
+      \verb http://www.nrcresearchpress.com/doi/10.1139/e2012-035
+      \endverb
+      \keyw{read,Horseshoe Canyon Formation}
+    \endentry
+    \entry{eberthStratigraphySedimentologyTaphonomy2010}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=38930a411dd742930a03c9508eb5a99a}{%
+           family={Eberth},
+           familyi={E\bibinitperiod},
+           given={David\bibnamedelima A.},
+           giveni={D\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+        {{un=2,uniquepart=given,hash=34fa785b22112545b68300d958e0877e}{%
+           family={Currie},
+           familyi={C\bibinitperiod},
+           given={Philip\bibnamedelima J.},
+           giveni={P\bibinitperiod\bibinitdelim J\bibinitperiod},
+           givenun=2}}%
+      }
+      \strng{namehash}{5b65b33ec39c2bc481cec925c9167df1}
+      \strng{fullhash}{5b65b33ec39c2bc481cec925c9167df1}
+      \strng{bibnamehash}{5b65b33ec39c2bc481cec925c9167df1}
+      \strng{authorbibnamehash}{5b65b33ec39c2bc481cec925c9167df1}
+      \strng{authornamehash}{5b65b33ec39c2bc481cec925c9167df1}
+      \strng{authorfullhash}{5b65b33ec39c2bc481cec925c9167df1}
+      \field{sortinit}{E}
+      \field{sortinithash}{8da8a182d344d5b9047633dfc0cc9131}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{The Albertosaurus bonebed provides evidence for the mass-mortality of at least 12 Albertosaurus. Albertosaurus, other vertebrates, and trees are concentrated on upper point bar surfaces of a small meandering paleochannel. Throughout the field area, Albertosaurus, other vertebrates, and coalified plants are also preserved patchily in overbank mudstones at the same horizon. Although the bonebed is dominated by Albertosaurus, there are also sparse macrofossil remains of Hypacrosaurus and Albertonykus. The basal lag yields vertebrate microfossils containing at least 19 additional taxa. Freshwater invertebrates are preserved at and below the base of the paleochannel. Large elements are over represented at the site, whereas smaller elements are under represented, suggesting hydraulic sorting. The taphonomic signature of the site suggests that death, disarticulation, and burial took place within one year. We conclude that one or more storms of large intensity downed trees and temporarily drowned the paleolandscape, ultimately killing the tyrannosaurids directly or indirectly. Logs and carcasses were reworked on a point bar during the waning stages of the storm and over subsequent years. Scavenging and breakage of remains by large carnivores was probably inhibited by the mixed log and bone jam. Remains of smaller scavengers (small theropods and snails) are plentiful suggesting these forms were more successful at accessing remains. Juvenile Albertosaurus are under represented at the site suggesting the possibility of age segregation. Because the group of Albertosaurus may have been forced together by rising floodwaters, it is not possible to assess the degree to which the taxon was gregarious from these data alone.}
+      \field{day}{17}
+      \field{issn}{0008-4077}
+      \field{journaltitle}{Canadian Journal of Earth Sciences}
+      \field{month}{9}
+      \field{number}{9}
+      \field{shortjournal}{Canadian Journal of Earth Sciences}
+      \field{title}{Stratigraphy, sedimentology, and taphonomy of the Albertosaurus bonebed (upper Horseshoe Canyon Formation; Maastrichtian), southern Alberta, Canada T}
+      \field{urlday}{10}
+      \field{urlmonth}{12}
+      \field{urlyear}{2022}
+      \field{volume}{47}
+      \field{year}{2010}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{1119\bibrangedash 1143}
+      \range{pages}{25}
+      \verb{doi}
+      \verb 10.1139/E10-045
+      \endverb
+      \verb{file}
+      \verb Eberth and Currie - 2010 - Stratigraphy, sedimentology, and taphonomy of the .pdf:/Users/ericr/Zotero/storage/X9KUSKZ8/Eberth and Currie - 2010 - Stratigraphy, sedimentology, and taphonomy of the .pdf:application/pdf;Snapshot:/Users/ericr/Zotero/storage/BXXWAPCA/Stratigraphy-sedimentology-and-taphonomy-of-the.html:text/html
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1139/E10-045
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1139/E10-045
+      \endverb
+      \keyw{to-read,!!!,Horseshoe Canyon Formation}
+    \endentry
+    \entry{eberthDinosaurBiostratigraphyEdmonton2013}{article}{}
+      \name{author}{6}{ul=2}{%
+        {{un=0,uniquepart=base,hash=38930a411dd742930a03c9508eb5a99a}{%
+           family={Eberth},
+           familyi={E\bibinitperiod},
+           given={David\bibnamedelima A.},
+           giveni={D\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=5e0c529d78cfa3e1c9b9abc30d71c2d6}{%
+           family={Evans},
+           familyi={E\bibinitperiod},
+           given={David\bibnamedelima C.},
+           giveni={D\bibinitperiod\bibinitdelim C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=eca8f82f2c2fb0f95d540e35c74fcfaa}{%
+           family={Brinkman},
+           familyi={B\bibinitperiod},
+           given={Donald\bibnamedelima B.},
+           giveni={D\bibinitperiod\bibinitdelim B\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=9731ad2b907b16ed3e406291110dbc39}{%
+           family={Therrien},
+           familyi={T\bibinitperiod},
+           given={François},
+           giveni={F\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=751e198a10a539f8787d0a9e10f1ee42}{%
+           family={Tanke},
+           familyi={T\bibinitperiod},
+           given={Darren\bibnamedelima H.},
+           giveni={D\bibinitperiod\bibinitdelim H\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=139ddd394c8a4a882a92329f77dda88e}{%
+           family={Russell},
+           familyi={R\bibinitperiod},
+           given={Loris\bibnamedelima S.},
+           giveni={L\bibinitperiod\bibinitdelim S\bibinitperiod},
+           givenun=0}}%
+      }
+      \name{editor}{1}{}{%
+        {{hash=06e905d51f1b6ff84a3c3abe24b4fd18}{%
+           family={Sues},
+           familyi={S\bibinitperiod},
+           given={Hans},
+           giveni={H\bibinitperiod}}}%
+      }
+      \strng{namehash}{95b77d2f1f3f7225f5ab74f230ea9b4c}
+      \strng{fullhash}{f29979a4a51bd8ae802b8bb6c680b0e8}
+      \strng{bibnamehash}{95b77d2f1f3f7225f5ab74f230ea9b4c}
+      \strng{authorbibnamehash}{95b77d2f1f3f7225f5ab74f230ea9b4c}
+      \strng{authornamehash}{95b77d2f1f3f7225f5ab74f230ea9b4c}
+      \strng{authorfullhash}{f29979a4a51bd8ae802b8bb6c680b0e8}
+      \strng{editorbibnamehash}{06e905d51f1b6ff84a3c3abe24b4fd18}
+      \strng{editornamehash}{06e905d51f1b6ff84a3c3abe24b4fd18}
+      \strng{editorfullhash}{06e905d51f1b6ff84a3c3abe24b4fd18}
+      \field{sortinit}{E}
+      \field{sortinithash}{8da8a182d344d5b9047633dfc0cc9131}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{A high-resolution biostratigraphic analysis of 287 dinosaurian macrofossils and 138 bonebeds in the Edmonton Group (Upper Cretaceous) of southern Alberta provides evidence for at least three dinosaurian assemblage zones in the Horseshoe Canyon Formation ({HCFm}). From bottom to top the zones comprise unique assemblages of ornithischians and are named as follows: 1) Edmontosaurus regalis-Pachyrhinosaurus canadensis (lower zone); 2) Hypacrosaurus altispinus-Saurolophus osborni (middle zone); and 3) Eotriceratops xerinsularis (upper zone). Whereas the lower and middle zones are well-defined and based on abundant specimens, the validity of the uppermost zone (E. xerinsularis) is tentative because it is based on a single specimen and the absence of dinosaur taxa from lower in section. The transition from the lower to the middle zone coincides with the replacement of a warm-and-wet saturated deltaic setting by a cooler, coastal-plain landscape, characterized by seasonal rainfall and better-drained substrates. Whereas changes in rainfall and substrate drainage appear to have influenced the faunal change, changes in mean annual temperature and proximity to shoreline appear to have had little influence on faunal change. We speculate that the faunal change between the middle and upper zones also resulted from a change in climate, with ornithischian dinosaurs responding to the re-establishment of wetter-and-warmer climates and poorly-drained substrates. Compared with the shorter-duration and climaticallyconsistent dinosaurian assemblage zones in the older Dinosaur Park Formation of southern Alberta, {HCFm} assemblage zones record long-term morphological stasis in dinosaurs. Furthermore, the coincidence of faunal and paleoenvironmental changes in the {HCFm} suggest climate-change-driven dinosaur migrations into and out of the region.}
+      \field{issn}{0008-4077, 1480-3313}
+      \field{journaltitle}{Canadian Journal of Earth Sciences}
+      \field{langid}{english}
+      \field{month}{7}
+      \field{number}{7}
+      \field{shortjournal}{Can. J. Earth Sci.}
+      \field{shorttitle}{Dinosaur biostratigraphy of the Edmonton Group (Upper Cretaceous), Alberta, Canada}
+      \field{title}{Dinosaur biostratigraphy of the Edmonton Group (Upper Cretaceous), Alberta, Canada: evidence for climate influence}
+      \field{urlday}{6}
+      \field{urlmonth}{7}
+      \field{urlyear}{2022}
+      \field{volume}{50}
+      \field{year}{2013}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{701\bibrangedash 726}
+      \range{pages}{26}
+      \verb{doi}
+      \verb 10.1139/cjes-2012-0185
+      \endverb
+      \verb{file}
+      \verb Eberth et al. - 2013 - Dinosaur biostratigraphy of the Edmonton Group (Up.pdf:/Users/ericr/Zotero/storage/8VEH2AEK/Eberth et al. - 2013 - Dinosaur biostratigraphy of the Edmonton Group (Up.pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb http://www.nrcresearchpress.com/doi/10.1139/cjes-2012-0185
+      \endverb
+      \verb{url}
+      \verb http://www.nrcresearchpress.com/doi/10.1139/cjes-2012-0185
+      \endverb
+      \keyw{to-read,!!!,Horseshoe Canyon Formation}
+    \endentry
+    \entry{evansHadrosauridEdmontosaurusBonebeds2015}{article}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=5e0c529d78cfa3e1c9b9abc30d71c2d6}{%
+           family={Evans},
+           familyi={E\bibinitperiod},
+           given={David\bibnamedelima C.},
+           giveni={D\bibinitperiod\bibinitdelim C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=38930a411dd742930a03c9508eb5a99a}{%
+           family={Eberth},
+           familyi={E\bibinitperiod},
+           given={David\bibnamedelima A.},
+           giveni={D\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=f3b9e8ded27922c834e6075d4a8fc124}{%
+           family={Ryan},
+           familyi={R\bibinitperiod},
+           given={Michael\bibnamedelima J.},
+           giveni={M\bibinitperiod\bibinitdelim J\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{4abaddd8c71bdab4c243901c4a311f7d}
+      \strng{fullhash}{4abaddd8c71bdab4c243901c4a311f7d}
+      \strng{bibnamehash}{4abaddd8c71bdab4c243901c4a311f7d}
+      \strng{authorbibnamehash}{4abaddd8c71bdab4c243901c4a311f7d}
+      \strng{authornamehash}{4abaddd8c71bdab4c243901c4a311f7d}
+      \strng{authorfullhash}{4abaddd8c71bdab4c243901c4a311f7d}
+      \field{sortinit}{E}
+      \field{sortinithash}{8da8a182d344d5b9047633dfc0cc9131}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{Three monodominant hadrosaurid bonebeds in the Horsethief Member of the Horseshoe Canyon Formation (uppermost Campanian) in southern Alberta, Canada, are documented. Each bonebed is hosted by a decimetre-thick deposit of poorly sorted and graded organic-fragment-rich mudstone. These fossil deposits are interpreted as having been carried and deposited by debris flows or hyperconcentrated mass sediment flows initiated by overbank flooding from local channels. Each bonebed is dominated ({>}50\% of identifiable elements) by the disarticulated to occasionally associated remains of hadrosaurine hadrosaurids, inferred to be Edmontosaurus regalis. The majority of hadrosaurid elements at two of the sites (Bleriot Ferry and Prehistoric Park) are from large, presumably adult-sized individuals, whereas the majority of elements from the Fox Coulee site are from subadults and juveniles. Fossil elements from all the sites exhibit similar taphonomic signatures suggestive of a high degree of biostratinomic modification including: (i) thorough disarticulation of carcasses, (ii) a large amount of breakage, (iii) modest amounts of size sorting, and (iv) minimum to modest occurrences of abrasion, and scratch and tooth marks. These signatures indicate that carcasses were exposed for significant amounts of time on the floodplain, where they rotted, were scavenged and trampled, and were exposed to moving water prior to final burial. The size of each bonebed together with the density of bones suggest that the biocoenoses comprised large groups of hadrosaurids, and bone size distributions suggest the possibility of age-segregated populations. The monodominant nature of the assemblages combined with homogenous taphonomic signatures within and between sites suggests that these bonebed assemblages are best interpreted as the result of mass kills rather than attrition, with recurring tropical storm-induced coastal-plain flooding postulated as a likely mechanism for what killed and eventually buried these dinosaurs.}
+      \field{issn}{0008-4077}
+      \field{journaltitle}{Canadian Journal of Earth Sciences}
+      \field{month}{8}
+      \field{note}{Publisher: {NRC} Research Press}
+      \field{number}{8}
+      \field{shortjournal}{Can. J. Earth Sci.}
+      \field{shorttitle}{Hadrosaurid (Edmontosaurus) bonebeds from the Horseshoe Canyon Formation (Horsethief Member) at Drumheller, Alberta, Canada}
+      \field{title}{Hadrosaurid (Edmontosaurus) bonebeds from the Horseshoe Canyon Formation (Horsethief Member) at Drumheller, Alberta, Canada: geology, preliminary taphonomy, and significance}
+      \field{urlday}{18}
+      \field{urlmonth}{4}
+      \field{urlyear}{2024}
+      \field{volume}{52}
+      \field{year}{2015}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{642\bibrangedash 654}
+      \range{pages}{13}
+      \verb{doi}
+      \verb 10.1139/cjes-2014-0184
+      \endverb
+      \verb{file}
+      \verb Full Text PDF:/Users/ericr/Zotero/storage/JWK7VQBF/Evans et al. - 2015 - Hadrosaurid (Edmontosaurus) bonebeds from the Hors.pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://cdnsciencepub.com/doi/full/10.1139/cjes-2014-0184
+      \endverb
+      \verb{url}
+      \verb https://cdnsciencepub.com/doi/full/10.1139/cjes-2014-0184
+      \endverb
+      \keyw{to-read,!!!,Horseshoe Canyon Formation}
+    \endentry
+    \entry{foxStagodontidMarsupialsLate2006}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=7ef6308559604691c706af9721be6a04}{%
+           family={Fox},
+           familyi={F\bibinitperiod},
+           given={R\bibnamedelima C},
+           giveni={R\bibinitperiod\bibinitdelim C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=db408cbf24da0d3d9434f54a6ac391a3}{%
+           family={Naylor},
+           familyi={N\bibinitperiod},
+           given={B\bibnamedelima G},
+           giveni={B\bibinitperiod\bibinitdelim G\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{f4b2483a451b24814df529707dd90a74}
+      \strng{fullhash}{f4b2483a451b24814df529707dd90a74}
+      \strng{bibnamehash}{f4b2483a451b24814df529707dd90a74}
+      \strng{authorbibnamehash}{f4b2483a451b24814df529707dd90a74}
+      \strng{authornamehash}{f4b2483a451b24814df529707dd90a74}
+      \strng{authorfullhash}{f4b2483a451b24814df529707dd90a74}
+      \field{sortinit}{F}
+      \field{sortinithash}{2638baaa20439f1b5a8f80c6c08a13b4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{{ACTA} {PALAEONTOLOGICA} {POLONICA}}
+      \field{langid}{english}
+      \field{number}{1}
+      \field{title}{Stagodontid marsupials from the Late Cretaceous of Canada and their systematic and functional implications}
+      \field{volume}{51}
+      \field{year}{2006}
+      \field{dateera}{ce}
+      \verb{file}
+      \verb PDF:/Users/ericr/Zotero/storage/CEZHQUFG/Fox and Naylor - Stagodontid marsupials from the Late Cretaceous of Canada and their systematic and functional implic.pdf:application/pdf
+      \endverb
+    \endentry
+    \entry{kutlukMegasporesUpperCretaceous2017}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=33ed1c1e230e49c39981a4956d6daad2}{%
+           family={Kutluk},
+           familyi={K\bibinitperiod},
+           given={Hatice},
+           giveni={H\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=9b8767b2d9752f6d145afba959c85ed0}{%
+           family={Hills},
+           familyi={H\bibinitperiod},
+           given={Leonard\bibnamedelima V.},
+           giveni={L\bibinitperiod\bibinitdelim V\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{525a5c78555c5c5e2cb8695c21d15f45}
+      \strng{fullhash}{525a5c78555c5c5e2cb8695c21d15f45}
+      \strng{bibnamehash}{525a5c78555c5c5e2cb8695c21d15f45}
+      \strng{authorbibnamehash}{525a5c78555c5c5e2cb8695c21d15f45}
+      \strng{authornamehash}{525a5c78555c5c5e2cb8695c21d15f45}
+      \strng{authorfullhash}{525a5c78555c5c5e2cb8695c21d15f45}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Eighty-nine samples from three boreholes penetrating the Horseshoe Canyon Formation (Late Campanian) in south-central Alberta (Canada) were investigated for megaspore content. The samples were found to contain 49 species belonging to the genera Azolla, Bacutriletes, Costatheca, Dictyothylakos, Echitriletes, Erlansonisporites, Ghoshispora, Glomerisporites, Minerisporites, Molaspora, Monophyllosporites, Paxillitriletes, Spermatites, Striatriletes and Trileites, including one new species of Spermatites (S. reticulatus). Deposits representing low-lying coastal plains with widespread peat swamps, meandering channels and back swamp environments yielded the highest numbers of megaspores. An analysis of characteristics of the 22 species of Costatheca and 18 species and one subspecies of Spermatites leads to the proposal of a system of shape classes. Dichotomous keys to species were prepared. The geographical and stratigraphical distributions of the genera were also reviewed to elucidate their potential use in biostratigraphic and palaeoecological studies.}
+      \field{day}{2}
+      \field{issn}{0191-6122}
+      \field{journaltitle}{Palynology}
+      \field{month}{1}
+      \field{number}{1}
+      \field{shortjournal}{Palynology}
+      \field{title}{Megaspores from the Upper Cretaceous (Campanian) Horseshoe Canyon Formation of south-central Alberta, Canada, with a review of the genera Costatheca and Spermatites}
+      \field{urlday}{5}
+      \field{urlmonth}{11}
+      \field{urlyear}{2025}
+      \field{volume}{41}
+      \field{year}{2017}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{31\bibrangedash 71}
+      \range{pages}{41}
+      \verb{doi}
+      \verb 10.1080/01916122.2015.1091163
+      \endverb
+      \verb{file}
+      \verb PDF:/Users/ericr/Zotero/storage/IM2XIIS8/Kutluk and Hills - 2017 - Megaspores from the Upper Cretaceous (Campanian) Horseshoe Canyon Formation of south-central Alberta.pdf:application/pdf;Snapshot:/Users/ericr/Zotero/storage/39NYK7A2/01916122.2015.html:text/html
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1080/01916122.2015.1091163
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1080/01916122.2015.1091163
+      \endverb
+    \endentry
+    \entry{larsonFaunalAssemblagesUpper2010}{article}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=7ddc8c8da133df05e094e0fc7cd23367}{%
+           family={Larson},
+           familyi={L\bibinitperiod},
+           given={Derek\bibnamedelima W.},
+           giveni={D\bibinitperiod\bibinitdelim W\bibinitperiod},
+           givenun=0}}%
+        {{un=2,uniquepart=given,hash=eca8f82f2c2fb0f95d540e35c74fcfaa}{%
+           family={Brinkman},
+           familyi={B\bibinitperiod},
+           given={Donald\bibnamedelima B.},
+           giveni={D\bibinitperiod\bibinitdelim B\bibinitperiod},
+           givenun=2}}%
+        {{un=0,uniquepart=base,hash=5369274209feadaa080ed97608d00e20}{%
+           family={Bell},
+           familyi={B\bibinitperiod},
+           given={Phil\bibnamedelima R.},
+           giveni={P\bibinitperiod\bibinitdelim R\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{1818030b2a0efb4a9553c4de384c1053}
+      \strng{fullhash}{1818030b2a0efb4a9553c4de384c1053}
+      \strng{bibnamehash}{1818030b2a0efb4a9553c4de384c1053}
+      \strng{authorbibnamehash}{1818030b2a0efb4a9553c4de384c1053}
+      \strng{authornamehash}{1818030b2a0efb4a9553c4de384c1053}
+      \strng{authorfullhash}{1818030b2a0efb4a9553c4de384c1053}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{The faunal assemblage from the early Maastrichtian portion of the Horseshoe Canyon Formation is described on the basis of four new vertebrate microfossil localities and remains from the Albertosaurus bonebed. All of the localities sampled were deposited during a cool, dry climate at a palaeolatitude of ∼58°N. Thus, these assemblages provide insight into a northern cool-climate assemblage in the early Maastrichtian of western North America. This fauna is characterized by the presence of taxa with more northern affinities, such as Holostean A, champsosaurs, Troodon, and toothed birds. Warm-climate taxa, such as crocodylians, large and diverse turtles, and albanerpetontids are notable in their absence. The Albertosaurus bonebed locality at the top of unit 4 of the Horseshoe Canyon Formation was deposited during the initial stages of a trend to a warmer and wetter climate that is represented in unit 5. The bonebed shares many taxa with the underlying vertebrate microfossil localities. However, a notable difference is the presence of Atrociraptor marshalli from the Albertosaurus bonebed but not the other localities in the upper Horseshoe Canyon Formation. The presence of Atrociraptor may be attributable to this change in climate rather than local ecological conditions. Also, the assemblages are different in the paucity of fish remains in the bonebed, and the relative rarity of shed hadrosaur teeth. The low abundance of aquatic taxa and rarity of shed teeth of hadrosaurs indicate that the locality is largely autochthonous, with little material being transported into the site.}
+      \field{issn}{0008-4077}
+      \field{journaltitle}{Canadian Journal of Earth Sciences}
+      \field{month}{9}
+      \field{note}{Publisher: {NRC} Research Press}
+      \field{number}{9}
+      \field{shortjournal}{Can. J. Earth Sci.}
+      \field{title}{Faunal assemblages from the upper Horseshoe Canyon Formation, an early Maastrichtian cool-climate assemblage from Alberta, with special reference to the Albertosaurus sarcophagus {bonebedThis} article is one of a series of papers published in this Special Issue on the theme Albertosaurus.}
+      \field{urlday}{15}
+      \field{urlmonth}{11}
+      \field{urlyear}{2023}
+      \field{volume}{47}
+      \field{year}{2010}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{1159\bibrangedash 1181}
+      \range{pages}{23}
+      \verb{doi}
+      \verb 10.1139/E10-005
+      \endverb
+      \verb{file}
+      \verb Larson et al. - 2010 - Faunal assemblages from the upper Horseshoe Canyon.pdf:/Users/ericr/Zotero/storage/AGJ9XVSJ/Larson et al. - 2010 - Faunal assemblages from the upper Horseshoe Canyon.pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://cdnsciencepub.com/doi/abs/10.1139/E10-005
+      \endverb
+      \verb{url}
+      \verb https://cdnsciencepub.com/doi/abs/10.1139/E10-005
+      \endverb
+      \keyw{read,Horseshoe Canyon Formation}
+    \endentry
+    \entry{leckieScenicGeologyAlberta2021}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=9f13b726bb820bac87b1ad6e7fdcc8cc}{%
+           family={Leckie},
+           familyi={L\bibinitperiod},
+           given={Dale},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {brokenpoplars}%
+      }
+      \strng{namehash}{9f13b726bb820bac87b1ad6e7fdcc8cc}
+      \strng{fullhash}{9f13b726bb820bac87b1ad6e7fdcc8cc}
+      \strng{bibnamehash}{9f13b726bb820bac87b1ad6e7fdcc8cc}
+      \strng{authorbibnamehash}{9f13b726bb820bac87b1ad6e7fdcc8cc}
+      \strng{authornamehash}{9f13b726bb820bac87b1ad6e7fdcc8cc}
+      \strng{authorfullhash}{9f13b726bb820bac87b1ad6e7fdcc8cc}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{isbn}{978-0-9959082-3-9}
+      \field{pagetotal}{280}
+      \field{title}{The Scenic Geology of Alberta - A Roadside Touring and Hiking Guide}
+      \field{year}{2021}
+      \field{dateera}{ce}
+    \endentry
+    \entry{liuMarineOriginsFreshwater2025}{article}{}
+      \name{author}{7}{}{%
+        {{un=0,uniquepart=base,hash=18b975301a4d17c28ca70d0a3fbce135}{%
+           family={Liu},
+           familyi={L\bibinitperiod},
+           given={Juan},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=eca8f82f2c2fb0f95d540e35c74fcfaa}{%
+           family={Brinkman},
+           familyi={B\bibinitperiod},
+           given={Donald\bibnamedelima B.},
+           giveni={D\bibinitperiod\bibinitdelim B\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=dd8eacf69e05237cb46dab2bde8fb75c}{%
+           family={Murray},
+           familyi={M\bibinitperiod},
+           given={Alison\bibnamedelima M.},
+           giveni={A\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=e7bee1cab6f7ee905aa4b96ae222935b}{%
+           family={Newbrey},
+           familyi={N\bibinitperiod},
+           given={Michael\bibnamedelima G.},
+           giveni={M\bibinitperiod\bibinitdelim G\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=e9bdc02b6580c373e3544ec55b9c039d}{%
+           family={Zhou},
+           familyi={Z\bibinitperiod},
+           given={Zehua},
+           giveni={Z\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=9b931c551ee9997cd7113e5b1c2af2cc}{%
+           family={Van\bibnamedelima Loon},
+           familyi={V\bibinitperiod\bibinitdelim L\bibinitperiod},
+           given={Lisa\bibnamedelima L.},
+           giveni={L\bibinitperiod\bibinitdelim L\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=2f83dc97d3c2a74241f7d9b34b4de186}{%
+           family={Banerjee},
+           familyi={B\bibinitperiod},
+           given={Neil\bibnamedelima R.},
+           giveni={N\bibinitperiod\bibinitdelim R\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{7d4e5a0a8b61f139c00df0a676b2495b}
+      \strng{fullhash}{fcdd5b80daf4a0cb3f5e97985c870860}
+      \strng{bibnamehash}{7d4e5a0a8b61f139c00df0a676b2495b}
+      \strng{authorbibnamehash}{7d4e5a0a8b61f139c00df0a676b2495b}
+      \strng{authornamehash}{7d4e5a0a8b61f139c00df0a676b2495b}
+      \strng{authorfullhash}{fcdd5b80daf4a0cb3f5e97985c870860}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Otophysans, known for their enhanced hearing enabled by the complex Weberian apparatus, comprise two-thirds of extant freshwater fish species. Previously, they were thought to have originated in fresh water before the breakup of Pangea, implying a nearly 80-million-year gap between the origin and oldest known fossil. However, the discovery of a Late Cretaceous freshwater otophysan challenges this view. Integrating fossil, morphological, and genomic data, we estimate a younger crown group origin of {\textasciitilde}154 million years ago. Notably, ancestral range and habitat reconstructions indicate marine origins for the otophysan crown groups, with at least two transitions to fresh water. Functional simulations of the Weberian ossicles of this fossil suggest that the distinctive hearing capabilities of otophysans evolved in conjunction with fusion of hearing ossicle parts and freshwater adaptations.}
+      \field{day}{2}
+      \field{journaltitle}{Science}
+      \field{month}{10}
+      \field{note}{Publisher: American Association for the Advancement of Science}
+      \field{number}{6768}
+      \field{title}{Marine origins and freshwater radiations of the otophysan fishes}
+      \field{urlday}{3}
+      \field{urlmonth}{11}
+      \field{urlyear}{2025}
+      \field{volume}{390}
+      \field{year}{2025}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{65\bibrangedash 69}
+      \range{pages}{5}
+      \verb{doi}
+      \verb 10.1126/science.adr4494
+      \endverb
+      \verb{urlraw}
+      \verb https://www.science.org/doi/10.1126/science.adr4494
+      \endverb
+      \verb{url}
+      \verb https://www.science.org/doi/10.1126/science.adr4494
+      \endverb
+    \endentry
+    \entry{royaltyrrellmuseumofpalaeontologyBonesBrews}{online}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=978dda1ad11b68470992ed7e22e63662}{%
+           family={Palaeontology},
+           familyi={P\bibinitperiod},
+           given={Royal\bibnamedelimb Tyrrell\bibnamedelima Museum},
+           giveni={R\bibinitperiod\bibinitdelim T\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0,
+           prefix={of},
+           prefixi={o\bibinitperiod},
+           prefixun=0}}%
+      }
+      \strng{namehash}{978dda1ad11b68470992ed7e22e63662}
+      \strng{fullhash}{978dda1ad11b68470992ed7e22e63662}
+      \strng{bibnamehash}{978dda1ad11b68470992ed7e22e63662}
+      \strng{authorbibnamehash}{978dda1ad11b68470992ed7e22e63662}
+      \strng{authornamehash}{978dda1ad11b68470992ed7e22e63662}
+      \strng{authorfullhash}{978dda1ad11b68470992ed7e22e63662}
+      \field{extraname}{1}
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \field{extradate}{1}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{url}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Bones \& Brews}
+      \field{urlday}{3}
+      \field{urlmonth}{11}
+      \field{urlyear}{2025}
+      \field{urldateera}{ce}
+      \verb{file}
+      \verb Bones & Brews | Royal Tyrrell Museum:/Users/ericr/Zotero/storage/BUM2MNZC/bones_brews.html:text/html
+      \endverb
+      \verb{urlraw}
+      \verb https://tyrrellmuseum.com/whats_on/bones_brews
+      \endverb
+      \verb{url}
+      \verb https://tyrrellmuseum.com/whats_on/bones_brews
+      \endverb
+    \endentry
+    \entry{royaltyrrellmuseumofpalaeontologyDinosaursDusk}{online}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=978dda1ad11b68470992ed7e22e63662}{%
+           family={Palaeontology},
+           familyi={P\bibinitperiod},
+           given={Royal\bibnamedelimb Tyrrell\bibnamedelima Museum},
+           giveni={R\bibinitperiod\bibinitdelim T\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0,
+           prefix={of},
+           prefixi={o\bibinitperiod},
+           prefixun=0}}%
+      }
+      \strng{namehash}{978dda1ad11b68470992ed7e22e63662}
+      \strng{fullhash}{978dda1ad11b68470992ed7e22e63662}
+      \strng{bibnamehash}{978dda1ad11b68470992ed7e22e63662}
+      \strng{authorbibnamehash}{978dda1ad11b68470992ed7e22e63662}
+      \strng{authornamehash}{978dda1ad11b68470992ed7e22e63662}
+      \strng{authorfullhash}{978dda1ad11b68470992ed7e22e63662}
+      \field{extraname}{2}
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \field{extradate}{2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{url}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Dinosaurs After Dusk}
+      \field{urlday}{3}
+      \field{urlmonth}{11}
+      \field{urlyear}{2025}
+      \field{urldateera}{ce}
+      \verb{file}
+      \verb Dinosaurs After Dusk | Royal Tyrrell Museum:/Users/ericr/Zotero/storage/QPDZTAEJ/dinosaurs_after_dusk.html:text/html
+      \endverb
+      \verb{urlraw}
+      \verb https://tyrrellmuseum.com/whats_on/dinosaurs_after_dusk
+      \endverb
+      \verb{url}
+      \verb https://tyrrellmuseum.com/whats_on/dinosaurs_after_dusk
+      \endverb
+    \endentry
+    \entry{quinneyPalaeoenvironmentalPalaeoclimaticReconstruction2013}{article}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=475c2d64c6d828919d238377d52ea4b6}{%
+           family={Quinney},
+           familyi={Q\bibinitperiod},
+           given={Annie},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=9731ad2b907b16ed3e406291110dbc39}{%
+           family={Therrien},
+           familyi={T\bibinitperiod},
+           given={François},
+           giveni={F\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=dd03c8cb9824042dacc3896781ea260d}{%
+           family={Zelenitsky},
+           familyi={Z\bibinitperiod},
+           given={Darla\bibnamedelima K.},
+           giveni={D\bibinitperiod\bibinitdelim K\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=38930a411dd742930a03c9508eb5a99a}{%
+           family={Eberth},
+           familyi={E\bibinitperiod},
+           given={David\bibnamedelima A.},
+           giveni={D\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{35aca0c8b759eaf6f6976e324312bfd0}
+      \strng{fullhash}{8d2cc7c6710bbdeef11e10dfa36aedb4}
+      \strng{bibnamehash}{35aca0c8b759eaf6f6976e324312bfd0}
+      \strng{authorbibnamehash}{35aca0c8b759eaf6f6976e324312bfd0}
+      \strng{authornamehash}{35aca0c8b759eaf6f6976e324312bfd0}
+      \strng{authorfullhash}{8d2cc7c6710bbdeef11e10dfa36aedb4}
+      \field{sortinit}{Q}
+      \field{sortinithash}{ce69a400a872ddd02ee7fdb3b38c6abd}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Pedogenic features and geochemical signatures of paleosol profiles exposed in the Horseshoe Canyon Formation ({HCFm}) were studied to reconstruct the ancient environments and climates that prevailed at high latitude ({\textasciitilde}60°N) in the North American Western Interior during the late Campanian to early Maastrichtian. Eight pedotypes representing hydromorphic, moderately-drained and well-drained paleosols were recognized. When considered within their stratigraphic context, these paleosols show that palaeoenvironmental and palaeoclimatic changes occurred either gradually between major lithological subdivisions of the {HCFm} or relatively rapidly within subdivisions. Hydromorphic paleosols, predominant in the coal-bearing stratigraphic interval at the base of the {HCFm}, were gradually replaced by well-drained paleosols in the overlying coal-poor interval. While climate remained warm and humid during this change in soil drainage conditions, mean annual temperature and precipitation dropped rapidly higher in section, shortly prior to the Campanian–Maastrichtian boundary, without concomitant lithological or pedological changes. A brief return of poorly-drained paleosols in the middle of the {HCFm} coincides with a regional marine transgression (Drumheller Marine Tongue). Well-drained palaeoenvironments, associated with a warm and dry climate, persisted through the upper part of the {HCFm} until a gradual return to poorly-drained conditions and to a warm, humid climate occurred at the top of the formation. An important decline in turtle diversity through the {HCFm}, previously attributed to climate, is shown to coincide instead with changes in soil drainage conditions, where aridity, landscape instability, and migratory barriers possibly acted as secondary limiting factors to faunal recovery.}
+      \field{day}{1}
+      \field{issn}{0031-0182}
+      \field{journaltitle}{Palaeogeography, Palaeoclimatology, Palaeoecology}
+      \field{month}{2}
+      \field{shortjournal}{Palaeogeography, Palaeoclimatology, Palaeoecology}
+      \field{title}{Palaeoenvironmental and palaeoclimatic reconstruction of the Upper Cretaceous (late Campanian–early Maastrichtian) Horseshoe Canyon Formation, Alberta, Canada}
+      \field{urlday}{18}
+      \field{urlmonth}{4}
+      \field{urlyear}{2024}
+      \field{volume}{371}
+      \field{year}{2013}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{26\bibrangedash 44}
+      \range{pages}{19}
+      \verb{doi}
+      \verb 10.1016/j.palaeo.2012.12.009
+      \endverb
+      \verb{file}
+      \verb Quinney et al. - 2013 - Palaeoenvironmental and palaeoclimatic reconstruct.pdf:/Users/ericr/Zotero/storage/N7ZPFT3E/Quinney et al. - 2013 - Palaeoenvironmental and palaeoclimatic reconstruct.pdf:application/pdf;ScienceDirect Snapshot:/Users/ericr/Zotero/storage/P4DP7EGR/S0031018212006785.html:text/html
+      \endverb
+      \verb{urlraw}
+      \verb https://www.sciencedirect.com/science/article/pii/S0031018212006785
+      \endverb
+      \verb{url}
+      \verb https://www.sciencedirect.com/science/article/pii/S0031018212006785
+      \endverb
+      \keyw{read,Horseshoe Canyon Formation,Faunal change,Palaeoclimate,Palaeoenvironment,Palaeopedology,Paleosol}
+    \endentry
+    \entry{reichgeltHumidMesothermalClimate2025}{article}{}
+      \name{author}{6}{}{%
+        {{un=0,uniquepart=base,hash=a1081d605c00e5575a474f338d62e495}{%
+           family={Reichgelt},
+           familyi={R\bibinitperiod},
+           given={Tammo},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=bb57131896eea7a3454c6ee5a169b415}{%
+           family={Jackson},
+           familyi={J\bibinitperiod},
+           given={Joseph\bibnamedelima A.},
+           giveni={J\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=5052264b293e5d84e0ac276e8577936e}{%
+           family={Conran},
+           familyi={C\bibinitperiod},
+           given={John\bibnamedelima G.},
+           giveni={J\bibinitperiod\bibinitdelim G\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=e96b92357b3108c75ca6b4d162040cff}{%
+           family={West},
+           familyi={W\bibinitperiod},
+           given={Christopher\bibnamedelima K.},
+           giveni={C\bibinitperiod\bibinitdelim K\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=3fd722271127c667a257c38cb73731da}{%
+           family={Kennedy},
+           familyi={K\bibinitperiod},
+           given={Elizabeth\bibnamedelima E.},
+           giveni={E\bibinitperiod\bibinitdelim E\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=6cddb0c1120f1667014d92daf1abe75c}{%
+           family={Lee},
+           familyi={L\bibinitperiod},
+           given={Daphne\bibnamedelima E.},
+           giveni={D\bibinitperiod\bibinitdelim E\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{26a8231118ee30cfad5a99fe1699a852}
+      \strng{fullhash}{a6f1cd3d4752add92011b3842a492636}
+      \strng{bibnamehash}{26a8231118ee30cfad5a99fe1699a852}
+      \strng{authorbibnamehash}{26a8231118ee30cfad5a99fe1699a852}
+      \strng{authornamehash}{26a8231118ee30cfad5a99fe1699a852}
+      \strng{authorfullhash}{a6f1cd3d4752add92011b3842a492636}
+      \field{sortinit}{R}
+      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Earth History and Biodiversity}
+      \field{note}{Publisher: Elsevier}
+      \field{title}{Humid mesothermal climate and open forest at the early Miocene Landslip Hill deposit (Gore Lignite Measures), southern Zealandia}
+      \field{urlday}{3}
+      \field{urlmonth}{11}
+      \field{urlyear}{2025}
+      \field{volume}{4}
+      \field{year}{2025}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{file}
+      \verb Available Version (via Google Scholar):/Users/ericr/Zotero/storage/R6TUHXBP/Reichgelt et al. - 2025 - Humid mesothermal climate and open forest at the early Miocene Landslip Hill deposit (Gore Lignite M.pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://ourarchive.otago.ac.nz/esploro/outputs/journalArticle/Humid-mesothermal-climate-and-open-forest/9926743709501891
+      \endverb
+      \verb{url}
+      \verb https://ourarchive.otago.ac.nz/esploro/outputs/journalArticle/Humid-mesothermal-climate-and-open-forest/9926743709501891
+      \endverb
+    \endentry
+    \entry{RoyalTyrrellMuseum}{online}{}
+      \field{sortinit}{R}
+      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{url}
+      \field{labeltitlesource}{title}
+      \field{title}{Royal Tyrrell Museum Annual Report 2023}
+      \field{urlday}{3}
+      \field{urlmonth}{11}
+      \field{urlyear}{2025}
+      \field{urldateera}{ce}
+      \verb{file}
+      \verb PDF:/Users/ericr/Zotero/storage/WU8UZLGH/Download the Royal Tyrrell Museum Annual Report 2023.pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://tyrrellmuseum.com/sites/default/files/media/Download%20the%20Royal%20Tyrrell%20Museum%20Annual%20Report%202023.pdf
+      \endverb
+      \verb{url}
+      \verb https://tyrrellmuseum.com/sites/default/files/media/Download%20the%20Royal%20Tyrrell%20Museum%20Annual%20Report%202023.pdf
+      \endverb
+    \endentry
+    \entry{RoyalTyrrellMuseuma}{online}{}
+      \field{sortinit}{R}
+      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{url}
+      \field{labeltitlesource}{title}
+      \field{title}{Royal Tyrrell Museum Annual Report 2024}
+      \field{urlday}{3}
+      \field{urlmonth}{11}
+      \field{urlyear}{2025}
+      \field{urldateera}{ce}
+      \verb{file}
+      \verb PDF:/Users/ericr/Zotero/storage/DFTUYQ34/Download the Royal Tyrrell Museum Annual Report 2024.pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://tyrrellmuseum.com/sites/default/files/media/Download%20the%20Royal%20Tyrrell%20Museum%20Annual%20Report%202024.pdf
+      \endverb
+      \verb{url}
+      \verb https://tyrrellmuseum.com/sites/default/files/media/Download%20the%20Royal%20Tyrrell%20Museum%20Annual%20Report%202024.pdf
+      \endverb
+    \endentry
+    \entry{serbetCunninghamiaTayloriiSp2013}{article}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=e299a733f9629fcce2bcf628d7d3f3db}{%
+           family={Serbet},
+           familyi={S\bibinitperiod},
+           given={Rudolph},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=ea8fdba0c161fde4dfdd6e2bbecd9a3b}{%
+           family={Bomfleur},
+           familyi={B\bibinitperiod},
+           given={Benjamin},
+           giveni={B\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=e100fe6693d25363348d7b0bb7a3272c}{%
+           family={Rothwell},
+           familyi={R\bibinitperiod},
+           given={Gar\bibnamedelima W.},
+           giveni={G\bibinitperiod\bibinitdelim W\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{9df2e7ce48146b31834a40be044ee71f}
+      \strng{fullhash}{9df2e7ce48146b31834a40be044ee71f}
+      \strng{bibnamehash}{9df2e7ce48146b31834a40be044ee71f}
+      \strng{authorbibnamehash}{9df2e7ce48146b31834a40be044ee71f}
+      \strng{authornamehash}{9df2e7ce48146b31834a40be044ee71f}
+      \strng{authorfullhash}{9df2e7ce48146b31834a40be044ee71f}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{The fossiliferous ironstone deposits of the Upper Cretaceous Horseshoe Canyon Formation in the Drumheller badlands, Alberta, Canada, contain a diverse, anatomically preserved flora. Within this assemblage occur abundant stems, leafy shoots, leaves, ovuliferous cones, and pollen cone clusters that are here described as a new species of Cunninghamia. The stems have persistent leaf bases and plagiotropic branching. Some stems show several growth increments, and the cortex and pith are made up of resin canals, large parenchymatous cells, and lysigenous cavities. Leafy shoot axes have parenchymatous cells, resinous cells, lysigenous cavities, and resin canals within the cortex and pith. The leaves are helically arranged, lanceolate to falcate, with two abaxial stomatal bands, a large central resin canal, and two smaller lateral canals. The ovuliferous cones have numerous helically arranged bract scale complexes. The bracts and three-lobed ovuliferous scale are variously ornamented. Anatomical features of bracts include a well-defined hypodermal layer and resin canals with adaxial traces. A single vascular trace enters the complex and divides to produce the ovuliferous-scale trace and bract traces. Ovules/seeds are ovoid and weakly winged. The pollen cone–bearing branch apices show stalks of at least 17 pollen cones arranged in a pseudowhorl. Each stalk consists of an inflated base surrounded by 5–6 scale-like leaves. The anatomy and morphology of the fossil material agrees so closely with that of modern Cunninghamia that we are confident in describing it as a new species of this genus, Cunninghamia taylorii sp. nov. The present material provides a rare opportunity to contribute toward a better understanding of the specific variation, biology, ecology, and evolutionary history of cunninghamioid Cupressaceae.}
+      \field{issn}{1058-5893}
+      \field{journaltitle}{International Journal of Plant Sciences}
+      \field{month}{3}
+      \field{note}{Publisher: The University of Chicago Press}
+      \field{number}{3}
+      \field{title}{Cunninghamia taylorii sp. nov., a Structurally Preserved Cupressaceous Conifer from the Upper Cretaceous (Campanian) Horseshoe Canyon Formation of Western North America}
+      \field{urlday}{5}
+      \field{urlmonth}{11}
+      \field{urlyear}{2025}
+      \field{volume}{174}
+      \field{year}{2013}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{471\bibrangedash 488}
+      \range{pages}{18}
+      \verb{doi}
+      \verb 10.1086/668695
+      \endverb
+      \verb{file}
+      \verb PDF:/Users/ericr/Zotero/storage/TBVCTCM3/Serbet et al. - 2013 - Cunninghamia taylorii sp. nov., a Structurally Preserved Cupressaceous Conifer from the Upper Cretac.pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://www.journals.uchicago.edu/doi/abs/10.1086/668695
+      \endverb
+      \verb{url}
+      \verb https://www.journals.uchicago.edu/doi/abs/10.1086/668695
+      \endverb
+      \keyw{conifer,Cretaceous,Cunninghamia,permineralization}
+    \endentry
+    \entry{spaldingDinosaursGraveyardCanadian1999}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=79b314c59a6900a941bba03a09149117}{%
+           family={Spalding},
+           familyi={S\bibinitperiod},
+           given={David},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Toronto}%
+      }
+      \list{publisher}{1}{%
+        {Doubleday Canada}%
+      }
+      \strng{namehash}{79b314c59a6900a941bba03a09149117}
+      \strng{fullhash}{79b314c59a6900a941bba03a09149117}
+      \strng{bibnamehash}{79b314c59a6900a941bba03a09149117}
+      \strng{authorbibnamehash}{79b314c59a6900a941bba03a09149117}
+      \strng{authornamehash}{79b314c59a6900a941bba03a09149117}
+      \strng{authorfullhash}{79b314c59a6900a941bba03a09149117}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{Dinosaur remains were discovered in Canada more than a century ago. But dinosaurs are expensive to collect, study and exhibit and, at first, research was dominated by more prosperous countries. For decades Canada's dinosaurs were subject to a sort of cultural colonialism, with fossils carried out of the country by foreign researchers.Canadian dinosaurs are only now becoming better known nationally and internationally. In the last two decades, there has been a boom in world interest in dinosaurs, with important new discoveries and interpretations by Canadian palaeontologists working here and abroad. This utterly absorbing book celebrates Canada's contributions to dinosaur lore.}
+      \field{isbn}{978-0-385-25762-6}
+      \field{pagetotal}{320}
+      \field{shorttitle}{Into The Dinosaurs' Graveyard}
+      \field{title}{Into The Dinosaurs' Graveyard: Canadian Digs and Discoveries}
+      \field{year}{1999}
+      \field{dateera}{ce}
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+
